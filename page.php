@@ -36,7 +36,7 @@
     </div>
     <div class="col-md-1"> </div>
     <div class="col-md-6">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3644.6367399081864!2d-46.4374990856093!3d-24.008601484462712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce1c2b90e95c99%3A0x95c78d06367a5564!2sEtec+Praia+Grande+-+Sede!5e0!3m2!1spt-BR!2sbr!4v1539999196737" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>    
+<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d24515.834223901227!2d-46.48313177834161!3d-24.020464063960162!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1setec+sede+praia+grande!5e0!3m2!1spt-BR!2sbr!4v1540295225619" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>    
 </div>
 </div>
 
